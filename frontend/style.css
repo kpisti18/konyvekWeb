@@ -1,0 +1,20 @@
+body {
+    min-width: 18rem;
+}
+
+/* Gombok */
+.crudButton{
+    width: 25%;
+}
+
+@media screen and (max-width:576px){
+    .crudButton{
+        width: 100%;
+    }
+}
+
+/* Kártyák */
+.card{
+    width: 17rem;
+    display: inline-block;
+}
